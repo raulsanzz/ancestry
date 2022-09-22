@@ -2,6 +2,11 @@
 
 # To Run this Project
 
+1. For Backend
+
+cd Ancestry-BE
+and then npm install and then npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
