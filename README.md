@@ -1,11 +1,10 @@
 # Getting Started with Create React App
 
-# To Run this Project
+# To Run Backend
 
-1. For Backend
-
-cd Ancestry-BE
-and then npm install and then npm start
+1. cd Ancestry-BE
+2. npm install
+3. npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
