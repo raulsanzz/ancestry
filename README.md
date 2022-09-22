@@ -8,9 +8,8 @@
 
 # To Run Frontend
 
-1. npm install in root 
-2. npm install
-3. npm start
+1. npm install in project directory
+2. npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
